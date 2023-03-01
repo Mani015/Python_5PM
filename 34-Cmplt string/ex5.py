@@ -11,3 +11,5 @@ f1()
 
 x='martin'
 print(x[2])
+
+
