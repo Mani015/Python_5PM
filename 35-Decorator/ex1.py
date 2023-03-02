@@ -17,12 +17,14 @@ def f1(n):
     return 'squre of n :',n**2
 
 def f2(n):
-    return 'cube of n:',n**3
+    return 'cube of n:',n*n
 
 def f3(fun):
     return fun
 
-# print(f3(f1(5)))
+
+# print(f3(f1(10)))
+# print(f3(f2(10)))
 
 
 def c1(x):
